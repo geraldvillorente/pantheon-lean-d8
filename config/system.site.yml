@@ -1,0 +1,14 @@
+uuid: 6c3c78ae-4dff-40a3-9450-efe2ff28f612
+name: pantheon-lean-d8
+mail: gerald@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
